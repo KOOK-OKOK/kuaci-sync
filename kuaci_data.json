@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-06-28T08:08:25.203Z",
+  "exportedAt": "2026-06-28T08:18:30.815Z",
   "projects": [
     {
       "icon": "📖",
@@ -523,6 +523,28 @@
         }
       ],
       "sites": []
+    },
+    {
+      "icon": "🎬",
+      "id": "proj-video",
+      "name": "视频",
+      "prompts": [
+        {
+          "id": "p1",
+          "name": "电影镜头",
+          "text": "cinematic shot, slow camera pan across the scene, natural lighting, depth of field, 24fps, film grain, dramatic atmosphere"
+        },
+        {
+          "id": "p2",
+          "name": "航拍全景",
+          "text": "aerial drone shot, sweeping panoramic view, golden hour lighting, gradual descent, smooth gimbal movement, cinematic"
+        },
+        {
+          "id": "p3",
+          "name": "慢动作",
+          "text": "slow motion shot, 120fps, water droplets suspended in air, graceful movement, ethereal atmosphere, silk effect"
+        }
+      ]
     },
     {
       "icon": "🎥",
@@ -1053,28 +1075,6 @@
         }
       ],
       "sites": []
-    },
-    {
-      "icon": "🎬",
-      "id": "proj-video",
-      "name": "视频",
-      "prompts": [
-        {
-          "id": "p1",
-          "name": "电影镜头",
-          "text": "cinematic shot, slow camera pan across the scene, natural lighting, depth of field, 24fps, film grain, dramatic atmosphere"
-        },
-        {
-          "id": "p2",
-          "name": "航拍全景",
-          "text": "aerial drone shot, sweeping panoramic view, golden hour lighting, gradual descent, smooth gimbal movement, cinematic"
-        },
-        {
-          "id": "p3",
-          "name": "慢动作",
-          "text": "slow motion shot, 120fps, water droplets suspended in air, graceful movement, ethereal atmosphere, silk effect"
-        }
-      ]
     },
     {
       "icon": "⚡",
