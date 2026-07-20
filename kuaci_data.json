@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-20T06:58:23.572Z",
+  "exportedAt": "2026-07-20T06:58:31.840Z",
   "projects": [
     {
       "icon": "📖",
@@ -87,7 +87,7 @@
     {
       "icon": "👤",
       "id": "proj-combine",
-      "name": "组合",
+      "name": "人物",
       "prompts": [
         {
           "id": "u_combo1",
