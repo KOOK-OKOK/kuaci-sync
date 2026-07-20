@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-19T17:10:44.475Z",
+  "exportedAt": "2026-07-20T06:16:56.450Z",
   "projects": [
     {
       "icon": "✨",
@@ -1172,6 +1172,13 @@
           "url": "https://maildrop.cc/"
         }
       ]
+    },
+    {
+      "id": "p_mrsu0ur0_bus8",
+      "name": "场景",
+      "icon": "🖼️",
+      "prompts": [],
+      "sites": []
     }
   ]
 }
