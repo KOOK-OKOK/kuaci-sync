@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-20T06:56:20.006Z",
+  "exportedAt": "2026-07-20T06:58:23.572Z",
   "projects": [
     {
       "icon": "📖",
@@ -200,7 +200,7 @@
     {
       "icon": "📋",
       "id": "proj-misc",
-      "name": "综合",
+      "name": "故事-故事板",
       "prompts": [
         {
           "id": "u_misc1",
