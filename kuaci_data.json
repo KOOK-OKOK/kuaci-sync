@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-22T09:43:55.077Z",
+  "exportedAt": "2026-07-22T09:44:32.110Z",
   "projects": [
     {
       "icon": "📖",
@@ -480,7 +480,7 @@
         {
           "id": "u_mrvwa6pi_fggg",
           "name": "视频风格词",
-          "text": "3D 写实风格，UE5 渲染，保持人物一致性，细节超高清。"
+          "text": "3D 写实风格，UE5 渲染，保持人物一致性，细节超高清。\n\n电视剧风格:\n风格：Chinese TV drama quality, clean transparent image, natural soft skin texture, even soft lighting, professional TV cinematography, warm natural color grading, high definition realistic quality, natural skin tones, detailed clean frame, modern drama aesthetic。"
         },
         {
           "fav": true,
