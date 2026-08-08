@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-07T17:06:50.979Z",
+  "exportedAt": "2026-08-08T09:35:51.510Z",
   "projects": [
     {
       "icon": "📖",
@@ -60,7 +60,7 @@
         {
           "id": "u_mseg2or2_ruue",
           "name": "提示词格式二",
-          "text": "时长：xx秒\n画幅与画风：16:9横屏\n参考素材：图片x（xxxx参考）、图片x（xxxx参考）\n视觉风格：xxxxx\n(xx-xxs)\n景别与运镜：xxxxx\n画面与表演：xxxxx\n配音台词：xxxxx\n音效：xxxxx\n\n(xx-xxs)\n景别与运镜：xxxxx\n画面与表演：xxxxx\n配音台词：xxxxx\n音效：xxxxx\n\n无文字、无字幕、无 LOGO、无水印，无背景音乐，不要背景音乐，只保留正常音效。"
+          "text": "时长：xx秒\n画幅与画风：16:9横屏\n参考素材：@图片x（xxxx参考）、@图片x（xxxx参考）\n视觉风格：xxxxx\n(xx-xxs)\n景别与运镜：xxxxx\n画面与表演：xxxxx\n配音台词：xxxxx\n音效：xxxxx\n\n(xx-xxs)\n景别与运镜：xxxxx\n画面与表演：xxxxx\n配音台词：xxxxx\n音效：xxxxx\n\n无文字、无字幕、无 LOGO、无水印，无背景音乐，不要背景音乐，只保留正常音效。"
         }
       ],
       "sites": []
