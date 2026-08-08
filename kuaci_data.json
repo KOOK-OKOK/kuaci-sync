@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-08T14:39:56.328Z",
+  "exportedAt": "2026-08-08T15:32:10.490Z",
   "projects": [
     {
       "icon": "📖",
@@ -669,6 +669,11 @@
           "id": "u_mqm236ij_jmu4",
           "name": "添加即梦多参考图快捷方式",
           "text": "你知道即梦引用参考图的快捷方式吗？请按照以下步骤操作：\n1. 在提示词输入框中，将光标定位到你想插入参考图的位置。\n2. 按下键盘上的 **@** 键。\n3. 此时会在光标处弹出一个下拉窗口，窗口中会显示你已上传的缩略图以及对应的图片编号（例如“图片1”、“图片2”等）。\n4. 用鼠标或键盘选择你想引用的图片，点击后该图片的引用信息就会被插入到提示词中。\n如果以上说明不够清晰，建议你自行上网搜索更详细的信息。"
+        },
+        {
+          "id": "u_mskj82p0_klu2",
+          "name": "香蕉模型一洗image2",
+          "text": "超高细节，徕卡画质；smooth shading, softlighting, controlled details, minimal texture, high clarity, refined edges, smooth gradients --- no noise, grain, artifacts, high frequency detail, dirty texture, oversharpen, blotchy, chaotic details."
         }
       ],
       "sites": []
