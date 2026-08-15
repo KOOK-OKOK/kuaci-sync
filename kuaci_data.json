@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-15T06:22:29.283Z",
+  "exportedAt": "2026-08-15T06:23:21.869Z",
   "projects": [
     {
       "icon": "📖",
@@ -160,9 +160,9 @@
       "sites": []
     },
     {
-      "icon": "📋",
+      "icon": "🔴",
       "id": "proj-misc",
-      "name": "分镜板",
+      "name": "自定义",
       "prompts": [
         {
           "fav": true,
