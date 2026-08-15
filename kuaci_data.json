@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-15T06:24:19.167Z",
+  "exportedAt": "2026-08-15T06:24:44.311Z",
   "projects": [
     {
       "icon": "📖",
@@ -1362,6 +1362,13 @@
           "url": "https://maildrop.cc/"
         }
       ]
+    },
+    {
+      "id": "p_mstzr12z_29ri",
+      "name": "自定义",
+      "icon": "🔴",
+      "prompts": [],
+      "sites": []
     }
   ]
 }
