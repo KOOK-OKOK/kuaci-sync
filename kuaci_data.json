@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-15T06:26:44.818Z",
+  "exportedAt": "2026-08-15T06:27:07.972Z",
   "projects": [
     {
       "icon": "📖",
@@ -1367,7 +1367,13 @@
       "id": "p_mstzr12z_29ri",
       "name": "自定义",
       "icon": "🔴",
-      "prompts": [],
+      "prompts": [
+        {
+          "id": "u_mstzu3xr_s9ju",
+          "name": "摘要",
+          "text": "从一阵金色粒子的幻影中化为真实人类的质感"
+        }
+      ],
       "sites": []
     }
   ]
