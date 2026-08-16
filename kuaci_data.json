@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-16T14:33:43.354Z",
+  "exportedAt": "2026-08-16T15:03:34.686Z",
   "projects": [
     {
       "icon": "📖",
@@ -730,6 +730,11 @@
           "id": "u_msvwnpwi_4btw",
           "name": "去油腻提示词",
           "text": "Reduce the overly polished CG rendering feel of the character, adopt soft natural lighting and subtle texture imperfections, add slight skin pores and faint natural blemishes, lower sharpness and excessive smoothness, remove artificial plastic gloss and rigid digital contours, use gentle color grading with muted natural tones, increase subtle film grain and soft depth of field to create a realistic, lifelike and non-computer-generated authentic human texture and natural atmosphere."
+        },
+        {
+          "id": "u_msvxq43n_vq8t",
+          "name": "角色卡设定",
+          "text": "角色的设定卡片。包括名字，外号，性格，身高，角色45°脸部特写（超清晰，写实的，侧光），人物全身的正面侧面背面。不同场景适用服装（并标注判断启用条件），一个自动随机随机触发的习惯性动作，4个夸张的经典表情，3个主要技能和一个大招。这些信息合理的平铺在整个画面上。"
         }
       ],
       "sites": []
