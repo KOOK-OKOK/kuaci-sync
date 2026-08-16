@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-16T14:33:31.231Z",
+  "exportedAt": "2026-08-16T14:33:43.354Z",
   "projects": [
     {
       "icon": "📖",
@@ -725,6 +725,11 @@
           "id": "u_mskj82p0_klu2",
           "name": "香蕉模型一洗image2",
           "text": "超高细节，徕卡画质；smooth shading, softlighting, controlled details, minimal texture, high clarity, refined edges, smooth gradients --- no noise, grain, artifacts, high frequency detail, dirty texture, oversharpen, blotchy, chaotic details."
+        },
+        {
+          "id": "u_msvwnpwi_4btw",
+          "name": "去油腻提示词",
+          "text": "Reduce the overly polished CG rendering feel of the character, adopt soft natural lighting and subtle texture imperfections, add slight skin pores and faint natural blemishes, lower sharpness and excessive smoothness, remove artificial plastic gloss and rigid digital contours, use gentle color grading with muted natural tones, increase subtle film grain and soft depth of field to create a realistic, lifelike and non-computer-generated authentic human texture and natural atmosphere."
         }
       ],
       "sites": []
