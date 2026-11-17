@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-11-17T09:07:19.241Z",
+  "exportedAt": "2026-11-17T09:07:41.819Z",
   "projects": [
     {
       "icon": "📖",
@@ -710,6 +710,12 @@
       "name": "功能",
       "prompts": [
         {
+          "id": "u_mwkgy6pf_pe43",
+          "name": "https://token.sensenova.cn/v1",
+          "text": "E=mayacd32\n          sk-9CLqd3eYMU4Ej6nuHBtWfqIDKM6gENbx     \n    mayacd32345\n          sk-BLo6wOL8rukCTdPtIlmWYyDmeWL3LZqK\nC=mayacd323\n          sk-7isYHypWeWKvvRLjCylJom44gEf6QzGh\nS=mayacd32263\n          sk-QMZKRmClLjRyslowUuAIOzG8eByEZMdx         \n    mayacd3234\n          sk-86SeWrOQHjqbZwLoZBkd1zrYmKGIyuR8",
+          "fav": true
+        },
+        {
           "id": "u_func7",
           "name": "图片反推提示词",
           "text": "你是一个视觉专家，摄影师，擅长处理图片，现在请帮我仔细分析这张照片，然后写出详细完整的图片提示词。\n按照以下要求用汉语输出输出:\n人物景别:\n视角:\n详细构图:\n核心主体:\n情绪动作:\n环境场景:\n艺术风格:\n氛围光线:\n色调:"
@@ -778,11 +784,6 @@
           "id": "u_msb8hnor_hve9",
           "name": "字间距调整",
           "text": "字列距加大2个像素点，保持样式和比例\n\n字行距加大4个像素点，保持样式和比例"
-        },
-        {
-          "id": "u_mwkgy6pf_pe43",
-          "name": "https://token.sensenova.cn/v1",
-          "text": "E=mayacd32\n          sk-9CLqd3eYMU4Ej6nuHBtWfqIDKM6gENbx     \n    mayacd32345\n          sk-BLo6wOL8rukCTdPtIlmWYyDmeWL3LZqK\nC=mayacd323\n          sk-7isYHypWeWKvvRLjCylJom44gEf6QzGh\nS=mayacd32263\n          sk-QMZKRmClLjRyslowUuAIOzG8eByEZMdx         \n    mayacd3234\n          sk-86SeWrOQHjqbZwLoZBkd1zrYmKGIyuR8"
         }
       ],
       "sites": []
